@@ -1482,5 +1482,17 @@
   "captain": "A designated team leader who usually wears an armband and has specific on-field responsibilities.",
   "referee": "The match official responsible for enforcing the rules and making decisions during the game.",
   "stadium": "A large sports venue with seating for spectators, where football matches are held.",
-  "World Cup": "The FIFA World Cup, an international football competition held every four years featuring national teams from around the world."
+  "World Cup": "The FIFA World Cup, an international football competition held every four years featuring national teams from around the world.",
+  "gf": "Girlfriend",
+  "bf": "Boyfriend",
+   "NASA": "National Aeronautics and Space Administration",
+    "ISRO": "Indian Space Research Organisation",
+    "ESA": "European Space Agency",
+    "JAXA": "Japan Aerospace Exploration Agency",
+    "Roscosmos": "Russian Federal Space Agency",
+    "CNSA": "China National Space Administration",
+    "CSA": "Canadian Space Agency",
+    "ASAL": "Argentine Space Agency",
+    "SUPARCO": "Space and Upper Atmosphere Research Commission (Pakistan)",
+    "NASDA": "National Space Development Agency of Japan",
 }
