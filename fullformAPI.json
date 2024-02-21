@@ -2260,6 +2260,16 @@
   "ott": "Over-the-top",
   "pvr": "PVR Cinemas",
   "radar": "Radio Detection and Ranging",
-  "zip": "Zone Improvement Plan"
+  "zip": "Zone Improvement Plan",
+   "bf": "Boyfriend",
+    "gf": "Girlfriend",
+    "VoLTE": "Voice over LTE",
+    "RFID": "Radio Frequency Identification",
+    "ufd": "Unit Fractional Distillation",
+    "POP": "Post Office Protocol",
+    "tag": "text Attribute Generator",
+    "qr": "Quick Response",
+    "npm": "Node Package Manager",
+    "iot": "Internet of Things"
   
 }
