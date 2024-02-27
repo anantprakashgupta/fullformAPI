@@ -2270,6 +2270,9 @@
     "tag": "text Attribute Generator",
     "qr": "Quick Response",
     "npm": "Node Package Manager",
-    "iot": "Internet of Things"
-  
+    "iot": "Internet of Things",
+   "ocr": "Optical Character Recognition",
+  "cpm": "cost per mille",
+  "bpm": "Beats Per Minute",
+  "rpm": "Revenue Per Mille" 
 }
