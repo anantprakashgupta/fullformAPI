@@ -2274,5 +2274,17 @@
    "ocr": "Optical Character Recognition",
   "cpm": "cost per mille",
   "bpm": "Beats Per Minute",
-  "rpm": "Revenue Per Mille" 
+  "rpm": "Revenue Per Mille" ,
+    "IPL": "Indian Premier League",
+  "RCB": "Royal Challengers Bangalore",
+  "KKR": "Kolkata Knight Riders",
+  "CSK": "Chennai Super Kings",
+  "SRH": "Sunrisers Hyderabad",
+  "DC": "Delhi Capitals",
+  "PBKS": "Punjab Kings",
+  "MI": "Mumbai Indians",
+  "RR": "Rajasthan Royals",
+  "LSG": "Lucknow Super Giants",
+  "GT": "Gujrat Titans",
+  "TBD": "To Be Decided"
 }
